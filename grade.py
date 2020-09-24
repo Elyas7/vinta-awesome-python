@@ -10,3 +10,4 @@ elif x>=60:
     print("Your Grade is D")
 else:
     print("Your grade is F")
+    print("You need to take this class again")
